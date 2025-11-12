@@ -1,0 +1,3 @@
+John,baby,10,10,5
+Mary,grown-up,20,20,12
+Peter,knight,30,30,16
